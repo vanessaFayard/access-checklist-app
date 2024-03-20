@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1",
+        "name": "Images",
+        "items": [
+            {
+                "id": "1",
+                "label": "Chaque image porteuse d'information possède un alt pertinant (texte alternatif)",
+                "details": "Au moins un de ces attributs : alt, title, aria-label, aria-labelledby, role=\"img\"<img> <area> <embed> < type=\"image\"> < ismap> <svg>",
+                "references": [
+                    {
+                        "label": "Référenciel RGAA - critères et tests - 1.1",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#1.1"
+                    },
+                    {
+                        "label": "Référenciel RGAA - critères et tests - 1.3",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#1.3"
+                    },
+                    {
+                        "label": "Référenciel RGAA - critères et tests - 1.4",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#1.4"
+                    },
+                    {
+                        "label": "Une image porteuse d'information, c'est quoi ?",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/glossaire/#image-porteuse-d-information"
+                    },
+                    {
+                        "label": "alt : alternative textuelle (image)",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/glossaire/#alternative-textuelle-image"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Chaque image de décoration est ignorée",
+                "details": "Absence d'alternative textuelle qui décrit l'image <code alt=\"\"> ou < aria-hidden=\"true\">",
+                "references": [
+                    {
+                        "label": "Référenciel RGAA - critères et tests - 1.2",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#1.2"
+                    },
+                    {
+                        "label": "Une image de décoration, c'est quoi ?",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/glossaire/#image-de-decoration"
+                    },
+                    {
+                        "label": "alt : alternative textuelle (image)",
+                        "url": "https://accessibilite.numerique.gouv.fr/methode/glossaire/#alternative-textuelle-image"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "connexion",
+        "items": [
+            {
+                "id": "1",
+                "label": "Lorem ipsum",
+                "details": "",
+                "references": [
+
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Label connexion numero 2",
+                "details": "",
+                "references": [
+
+                ]
+            }
+        ]
+    }
+]
